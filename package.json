@@ -1,7 +1,11 @@
 {
-  "name": "learn-travis-YOURNAME",
-  "description": "Simple Travis-CI check for JSHint (Code Linting)",
-  "author": "Nina Stodolka)",
+  "name": "GITVortrag",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GitTyCat42/GITVortrag.git"
+  },
+  "description": "Simple nodejs, travis and grunt demo",
+  "author": "Nina Stodolka",
   "version": "0.0.1",
   "devDependencies": {
     "jshint": "^2.6.0"
