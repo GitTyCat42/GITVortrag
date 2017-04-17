@@ -1,0 +1,16 @@
+{
+  "name": "GITVortrag",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GitTyCat42/GITVortrag.git"
+  },
+  "description": "Simple nodejs, travis and grunt demo",
+  "author": "Nina Stodolka",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint hello.js"
+  }
+}
